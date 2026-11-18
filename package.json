@@ -1,5 +1,5 @@
 {
-  "name": "kestrel-shuttle",
+  "name": "swifttle",
   "private": true,
   "scripts": {
     "dev": "next dev",
